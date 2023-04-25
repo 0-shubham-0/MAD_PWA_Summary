@@ -11,4 +11,4 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 05         | Firebase Authentication Service | [Link](https://github.com/aniketparate/mad_pwa_exp05) |
 | Exp 06         | Routes and Consume API          | [Link](https://github.com/0-shubham-0/mad_exp06)      |
 | Exp 07         | Navigation Drawer               | [Link](https://github.com/0-shubham-0/mad_exp07)      |
-| Mini Project   | MP                              | MP                                                    |
+| Mini Project   | Air Quality Monitoring          | [Link](https://github.com/aniketparate/aq_iot)                                                    |
