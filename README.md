@@ -9,6 +9,6 @@ This repo consists of all the files related to the MAD_PWA Lab along with Experi
 | Exp 03         | Profile Page App (Stateful)     | [Link](https://github.com/DishantWakalkar/Mad_Exp3)      |
 | Exp 04         | ListView and Card Layout        | [Link](https://github.com/0-shubham-0/mad_exp04)      |
 | Exp 05         | Firebase Authentication Service | [Link](https://github.com/aniketparate/mad_pwa_exp05) |
-| Exp 06         | Routes and Consume API          | [Link](https://github.com/0-shubham-0/mad_exp06)      |
+| Exp 06         | Routes and Consume API          | [Link](https://github.com/DishantWakalkar/mad_pwa_exp06)      |
 | Exp 07         | Navigation Drawer               | [Link](https://github.com/0-shubham-0/mad_exp07)      |
 | Mini Project   | Air Quality Monitoring          | [Link](https://github.com/aniketparate/aq_iot)                                                    |
